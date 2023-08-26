@@ -1,0 +1,130 @@
+
+
+body{
+     background-color: aliceblue;
+     justify-content: center;
+     }
+
+h1{
+   color:#252B48;
+   }
+
+
+li{
+  font-family: 'papyrus';
+  }
+
+.date{
+   color: maroon;
+   font-family: 'papyrus';
+   }
+
+
+.name-heading{
+     color: #4F200D;
+     }
+
+
+.sch-tag{
+  color: olivedrab;
+  }
+
+
+.ability{
+  color: olivedrab;
+  }
+
+
+h5{
+  font-size: 20px;
+  font-family: "tahoma";
+  }
+
+.heads{
+ color: maroon;
+ font-weight: bold;
+ font-family: cursive;
+ font-style: italic;
+ }
+
+
+.contact{
+  background-color: aliceblue;
+  color: maroon;
+  font-size: 20px;
+  text-align: center;
+  }
+
+
+#reach-me{
+  color: seagreen;
+  }
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: tan;
+    border-width: 5px;
+    width: 10%;
+    }
+
+img:hover {
+    fade-in-a-box: Daswealth;
+    }
+
+
+input{
+  width: 20%;
+  padding: 1px 10px;
+  margin: 8px 0;
+  display: inline-block;
+  border-radius: 4px;
+  box-sizing: border-box;
+  border: 2px solid aliceblue;
+  border-radius: 4px;
+  }
+
+
+.button {
+	appearance: none;
+	border: .2em solid gray;
+	background: hsl(0,0%,100%);
+	padding: .85em 1.5em;
+	color: gray;
+	border-radius: 2em;
+	text-decoration: none;
+	transition: 1s;
+	&:hover, &:focus, &:active {
+		background: tan;
+		color: aliceblue;
+	}
+}
+
+
+.wrapper{
+  display: inherit;
+
+  }
+
+.wrapper input[type="text"]{
+  flex: 1 1 auto;
+  }
+
+div{
+  border-radius: 100000000000px;
+  background-color: aliceblue;
+  }
+
+
+img{
+  border-radius: 0%;
+  max-width: 100%;
+  height: auto;
+  }
+
+.text{
+  color: olive;
+  font-family: "copperplate";
+  font-size: 20px;
+  }
+
